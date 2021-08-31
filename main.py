@@ -29,6 +29,7 @@ elif nav == "Prediction":
 		st.success("Predicted sucessfully!")
 		st.markdown("### Prediction:")
 		st.success(predicted)
+		st.set_option('deprecation.showPyplotGlobalUse', False)
 		plot_confusion_matrix(model, X_test, y_test)
 		st.pyplot()
 
