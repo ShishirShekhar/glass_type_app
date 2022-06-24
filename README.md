@@ -1,7 +1,7 @@
 # glass_type_app
 
 This web app is created to predict glass type (Use of the composition of glass).<br>
-Website link => https://share.streamlit.io/shishirshekhar/glass_type_app/main/main.py <br>
+Website link => https://shishirshekhar-glass-type-app-main-l84av8.streamlitapp.com/ <br>
 
 Images( Thesse images are of prediction page only) =>
   
